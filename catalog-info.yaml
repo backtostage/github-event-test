@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: github-event-test
-  description: An example of a Backstage application - UPDATE.
+  description: An example of a Backstage application - UPDATE2.
   annotations:
     github.com/project-slug: backtostage/github-event-test
 spec:
